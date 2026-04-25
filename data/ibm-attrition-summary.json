@@ -1,0 +1,35 @@
+{
+  "dataset_name": "IBM HR Analytics Employee Attrition & Performance",
+  "total_records": 1470,
+  "summary_statistics": {
+    "overall_attrition_rate": "16.12%",
+    "avg_monthly_income": "$6,503",
+    "avg_tenure_years": 7.0,
+    "overtime_rate": "28.3%",
+    "avg_job_satisfaction": 2.73
+  },
+  "department_breakdown": {
+    "Research & Development": {
+      "total": 961,
+      "attrition": 133,
+      "rate": "13.84%"
+    },
+    "Sales": {
+      "total": 446,
+      "attrition": 92,
+      "rate": "20.63%"
+    },
+    "Human Resources": {
+      "total": 63,
+      "attrition": 12,
+      "rate": "19.05%"
+    }
+  },
+  "top_attrition_drivers": [
+    { "factor": "Overtime", "impact": "High" },
+    { "factor": "Job Level 1", "impact": "High" },
+    { "factor": "Low Monthly Income", "impact": "Medium-High" },
+    { "factor": "Single Marital Status", "impact": "Medium" },
+    { "factor": "Age < 30", "impact": "Medium" }
+  ]
+}
