@@ -1,8 +1,9 @@
+<img width="1383" height="751" alt="Screenshot 2026-04-25 at 11 10 55 PM" src="https://github.com/user-attachments/assets/d8d66fcb-1910-4d66-90e9-13f3a4f79fb5" />
 <img width="1381" height="754" alt="Screenshot 2026-04-25 at 11 13 28 PM" src="https://github.com/user-attachments/assets/a342de91-b9a8-4df6-9c1f-9806818028e7" />
 <img width="1385" height="759" alt="Screenshot 2026-04-25 at 11 12 18 PM" src="https://github.com/user-attachments/assets/80693c06-82de-4a9d-832a-18be12c9544f" />
 <img width="1382" height="755" alt="Screenshot 2026-04-25 at 11 11 44 PM" src="https://github.com/user-attachments/assets/e472cb26-63c9-4328-aae1-e6e1d13b10e8" />
 <img width="1380" height="759" alt="Screenshot 2026-04-25 at 11 11 16 PM" src="https://github.com/user-attachments/assets/73bd8ac2-4fe3-44e9-a2c9-5d8dfecd5d4c" />
-<img width="1383" height="751" alt="Screenshot 2026-04-25 at 11 10 55 PM" src="https://github.com/user-attachments/assets/d8d66fcb-1910-4d66-90e9-13f3a4f79fb5" />
+
 # PeopleIQ | HR Attrition Intelligence Platform
 
 An advanced AI-powered HR analytics dashboard designed to predict and prevent employee attrition utilizing the IBM HR Attrition dataset.
